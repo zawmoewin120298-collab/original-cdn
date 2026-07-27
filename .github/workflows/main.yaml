@@ -33,5 +33,5 @@ jobs:
         file: ./Dockerfile
         push: true
         tags: |
-          ghcr.io/${{ github.repository_owner }}/original cdn:v1.0.3
+          ghcr.io/${{ github.repository_owner }}/original cdn:v3.0.5
           ghcr.io/${{ github.repository_owner }}/original cdn:latest
